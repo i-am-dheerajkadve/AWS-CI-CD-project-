@@ -1,2 +1,8 @@
 # AWS-CI-CD-project-
 It is my aws project of aws based on CI/CD model
+
+
+
+
+so now i have made some changes in the readme 
+
